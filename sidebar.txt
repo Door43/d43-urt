@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[urt:home|Door43 (urt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-urt|d43-urt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-urt/archive/master.zip|d43-urt.zip]]
+
+**Recent Changes**
+{{changes>ns = urt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/urt|Ethnologue data]]
+
